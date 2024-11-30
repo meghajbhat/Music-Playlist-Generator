@@ -54,8 +54,9 @@ This **Music Playlist Generator** is a C-based program that allows users to mana
    ```bash
    gcc dsap.c -o music_playlist
 4. Run the compiled program:
+   ```bash
    ./music_playlist
-5. Follow the menu options to manage playlists, play songs, and explore YouTube search.
+6. Follow the menu options to manage playlists, play songs, and explore YouTube search.
 
 ---
 
